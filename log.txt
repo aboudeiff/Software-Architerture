@@ -1,0 +1,3 @@
+(C1)(mobile) arrived
+(C2)(pc) arrived
+(C3)(lap) arrived
