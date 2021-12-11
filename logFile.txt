@@ -1,8 +1,8 @@
-(C1)(lap)arrived
+(C1)(lab)arrived
 connection1: C1 Occupied
 (C2)(pc)arrived
-connection1: C1 performs online activity
 connection2: C2 Occupied
+connection1: C1 performs online activity
 connection2: C2 performs online activity
 connection1: C1 Logged out
 connection2: C2 Logged out
